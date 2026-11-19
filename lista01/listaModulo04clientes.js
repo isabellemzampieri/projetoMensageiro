@@ -1,0 +1,1 @@
+export const clientes = ['ana silva', 'joão souza', 'maria santos', 'pedro lima'];
