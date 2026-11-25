@@ -1,5 +1,5 @@
 import express from "express";
-import { produtos } from "./produto.js";
+import { produtos } from "./produtos_mono.js";
 
 const app = express();
 const port = 3000;
